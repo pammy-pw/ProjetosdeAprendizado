@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SistemaLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC209AA-7064-4DA9-A8CD-2ED9956EB709}|SistemaLogin\\SistemaLogin.csproj|e:\\sistemalogin\\sistemalogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAC209AA-7064-4DA9-A8CD-2ED9956EB709}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC209AA-7064-4DA9-A8CD-2ED9956EB709}|SistemaLogin\\SistemaLogin.csproj|e:\\sistemalogin\\sistemalogin\\formnewclone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC209AA-7064-4DA9-A8CD-2ED9956EB709}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\formnewclone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC209AA-7064-4DA9-A8CD-2ED9956EB709}|SistemaLogin\\SistemaLogin.csproj|e:\\sistemalogin\\sistemalogin\\formaccesssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAC209AA-7064-4DA9-A8CD-2ED9956EB709}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\formaccesssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC209AA-7064-4DA9-A8CD-2ED9956EB709}|SistemaLogin\\SistemaLogin.csproj|e:\\sistemalogin\\sistemalogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC209AA-7064-4DA9-A8CD-2ED9956EB709}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC209AA-7064-4DA9-A8CD-2ED9956EB709}|SistemaLogin\\SistemaLogin.csproj|E:\\SistemaLogin\\sistemalogin\\formnewclone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAC209AA-7064-4DA9-A8CD-2ED9956EB709}|SistemaLogin\\SistemaLogin.csproj|solutionrelative:sistemalogin\\formnewclone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormNewClone.cs",
+              "DocumentMoniker": "E:\\SistemaLogin\\SistemaLogin\\FormNewClone.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\FormNewClone.cs",
+              "ToolTip": "E:\\SistemaLogin\\SistemaLogin\\FormNewClone.cs",
+              "RelativeToolTip": "SistemaLogin\\FormNewClone.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T01:55:53.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAccessSystem.cs [Projeto]",
+              "DocumentMoniker": "E:\\SistemaLogin\\SistemaLogin\\FormAccessSystem.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\FormAccessSystem.cs",
+              "ToolTip": "E:\\SistemaLogin\\SistemaLogin\\FormAccessSystem.cs [Projeto]",
+              "RelativeToolTip": "SistemaLogin\\FormAccessSystem.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T01:47:00.093Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "E:\\SistemaLogin\\SistemaLogin\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\FormLogin.cs",
+              "ToolTip": "E:\\SistemaLogin\\SistemaLogin\\FormLogin.cs",
+              "RelativeToolTip": "SistemaLogin\\FormLogin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T01:31:33.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNewClone.cs [Projeto]",
+              "DocumentMoniker": "E:\\SistemaLogin\\SistemaLogin\\FormNewClone.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\FormNewClone.cs",
+              "ToolTip": "E:\\SistemaLogin\\SistemaLogin\\FormNewClone.cs [Projeto]",
+              "RelativeToolTip": "SistemaLogin\\FormNewClone.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T01:30:59.583Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs [Projeto]",
+              "DocumentMoniker": "E:\\SistemaLogin\\SistemaLogin\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SistemaLogin\\FormLogin.cs",
+              "ToolTip": "E:\\SistemaLogin\\SistemaLogin\\FormLogin.cs [Projeto]",
+              "RelativeToolTip": "SistemaLogin\\FormLogin.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T00:21:19.123Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
